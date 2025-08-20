@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Se determina que la utilidad del repositorio permitió llevar y mantener un control apropiado 
 para trabajar en la tarea asignada en el control de versiones permitiendo tener un historial
 completo de todas las modificaciones realizadas en los archivos, así mismo la colaboración de los 
@@ -10,9 +9,7 @@ los paquetes que están dirigidos o enviados a la interfaz correspondiente. Wire
 =======
 Wireshark es una herramienta muy útil en el útil en el área de TI y ciberseguridad. Es una herramienta que permite capturar y analizar paquetes de red. Contribuye a identificar la causa raíz de los problemas de red y nos ayuda en el análisis y la seguridad de la red. Wireshark sirve para capturar, interpretar, filtrar e inspeccionar paquetes de datos para  solucionar eficazmente los problemas de red. La conectividad de Wireshark consiste en una interfaz gráfica de usuario (GUI). Además,implementa una amplia gama de filtros que facilitan la definición de criterios de búsqueda para más de 1100 protocolos soportados.
 Wireshark es muy importante en GitHub ya que permite a los desarrolladores colaborar en el código de Wireshark y contribuir a su desarrollo. Por otro lado, GitHub es  una plataforma para la gestión de versiones, lo que facilita el trabajo en equipo y la mejora del software. 
-
->>>>>>> b092ce745e2261560bad6e8e5f753c335e78a475
-
+=======
 Wireshark es una herramienta gratuita y de código abierto que permite capturar y analizar el tráfico de red en tiempo real. En ciberseguridad se utiliza principalmente para:
 Detección de intrusiones y ataques
 Permite identificar patrones sospechosos, como intentos de acceso no autorizado, ataques DDoS o tráfico anómalo.
